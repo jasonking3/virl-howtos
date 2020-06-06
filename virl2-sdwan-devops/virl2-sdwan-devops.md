@@ -4,7 +4,7 @@
 In the top right, click Tools -> Node and Image Definitions. Scroll down to the Nodes category. You will be prompted to import a definition. Click Browse and select each file provided in the "Node Definitions" folder.
 
 ## Image Upload and Definitions
-In the top right, click Tools -> Node and Image Definitions. Click Manage Uploaded Images. Click Browse and upload an image for each of the following:
+In the top right, click 'Tools' -> 'Node and Image Definitions.' Click 'Manage Uploaded Images'. Click 'Browse' and upload an image for each of the following:
 - viptela-edge-19.2.1-genericx86-64.qcow2
 - viptela-smart-19.2.1-genericx86-64.qcow2
 - viptela-vmanage-19.2.1-genericx86-64.qcow2
