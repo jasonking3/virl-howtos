@@ -11,7 +11,7 @@ In the top right, click Tools -> Node and Image Definitions. Click Manage Upload
 
 Please note that you will have to upload the vEdge image twice due to CML only allowing a single image definition per image.
 
-Once those have been uploaded you will click on 'Create New Image Definition.' These will be reflective of the following values (versions may slightly vary).
+Once those have been uploaded you will click on 'Create New Image Definition.'Please create the following image definitions:
 
 ### IOS-XE
 ID: iosxe-sdwan-16.12.2r
