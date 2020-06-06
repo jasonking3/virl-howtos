@@ -9,9 +9,9 @@ In the top right, click 'Tools' -> 'Node and Image Definitions.' Click 'Manage U
 - viptela-smart-19.2.1-genericx86-64.qcow2
 - viptela-vmanage-19.2.1-genericx86-64.qcow2
 
-Please note that you will have to upload the vEdge image twice due to CML only allowing a single image definition per image.
+Please note that you will have to upload the vEdge image twice due to CML only allowing a single image definition per image. This has to be done only after attaching the first vEdge image to it's image definition.
 
-Once those have been uploaded you will click on 'Create New Image Definition.'Please create the following image definitions:
+Once those have been uploaded you will click on 'Create New Image Definition.' Please create the following image definitions:
 
 ### IOS-XE
 ID: iosxe-sdwan-16.12.2r
